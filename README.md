@@ -150,4 +150,3 @@ http://localhost:8080/swagger-ui/index.html
 - URL expiration system
 - Rate limiting
 - Redis caching
-- Frontend integration (React)
