@@ -15,6 +15,7 @@ A Spring Boot RESTful API that converts long URLs into short, shareable links wi
 - Global exception handling
 - Input validation
 - Swagger API documentation
+- Responsive React Frontend
 - MySQL persistence
 
 ---
@@ -25,6 +26,7 @@ A Spring Boot RESTful API that converts long URLs into short, shareable links wi
 - Spring Boot 3.3.2
 - Spring Web
 - Spring Data JPA
+- React.js
 - MySQL
 - Maven
 - Swagger (OpenAPI)
@@ -142,6 +144,7 @@ http://localhost:8080/swagger-ui/index.html
 2. Configure MySQL in application.properties
 3. Run Spring Boot application
 4. Open Swagger UI in browser
+5. Launch react frontend and interact with UI
 
 ---
 
